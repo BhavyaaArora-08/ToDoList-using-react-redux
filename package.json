@@ -1,5 +1,5 @@
 {
-  "name": "expensify-app",
+  "name": "ToDoList-Redux",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,8 +17,11 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-modal": "^3.11.2",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
     "sass-loader": "^8.0.2",
     "style-loader": "^1.2.1",
+    "uuid": "^8.1.0",
     "validator": "^13.0.0",
     "webpack": "^4.43.0",
     "webpack-dev-server": "^3.11.0"
